@@ -3,9 +3,6 @@
 Runs on API 15 or higher
 ## Description:
 A Simple music player ready to be further developed.
-
-![Image of Splash](https://github.com/ravinanitwal/Mystic/blob/master/Screenshots/Screenshot_20180521-084658.png)                       ![Image of Song Playlist](https://github.com/ravinanitwal/Mystic/blob/master/Screenshots/Screenshot_20180521-084702.png)
-
 ![Image of EchoSong](https://github.com/ravinanitwal/Mystic/blob/master/Screenshots/Screenshot_20180520-193055.png)
 
 
