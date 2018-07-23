@@ -4,9 +4,9 @@ Runs on API 15 or higher
 ## Description:
 A Simple music player ready to be further developed.
 
-![Image of Splash](https://github.com/Abhishek1103/echo-music-player/blob/master/images/echospl1.jpg)                       ![Image of EchoList](https://github.com/Abhishek1103/echo-music-player/blob/master/images/echolist1.jpg)
+![Image of Splash](https://github.com/ravinanitwal/Mystic/blob/master/Screenshots/Screenshot_20180521-084658.png)                       ![Image of Song Playlist](https://github.com/ravinanitwal/Mystic/blob/master/Screenshots/Screenshot_20180521-084702.png)
 
-![Image of EchoSong](https://github.com/Abhishek1103/echo-music-player/blob/master/images/echosong1.jpg) ![Image of EchoNav](https://github.com/Abhishek1103/echo-music-player/blob/master/images/echonav1.jpg) 
+![Image of EchoSong](https://github.com/ravinanitwal/Mystic/blob/master/Screenshots/Screenshot_20180520-193055.png)
 
 
 ## Features
